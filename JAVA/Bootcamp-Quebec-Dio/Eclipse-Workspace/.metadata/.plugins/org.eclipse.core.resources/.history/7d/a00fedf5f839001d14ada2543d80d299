@@ -1,0 +1,28 @@
+package br.dio.com.calculadora;
+
+public class calculadora {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+
+	}
+
+	public static int soma(int a, b) {
+		return a + b;
+	}
+	
+	public static int subtracao(int a, b) {
+		return a - b;
+	}
+	
+	public static int divisao(int a, b) {
+		return a / b;
+	}
+	
+	public static int multiplicacao(int a, b) {
+		return a * b;
+	}
+	
+	
+}

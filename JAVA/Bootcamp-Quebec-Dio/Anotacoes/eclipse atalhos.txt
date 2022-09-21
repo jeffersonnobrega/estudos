@@ -1,0 +1,25 @@
+digita main ctrl + espaço e escolhe o public static void main
+
+ctrl + m expande a tela ou volta ela
+
+para comentar no código /**/
+
+ctrl + 3 para abrir a pesquisa
+
+ctrl + d apaga a linha
+alt + seta pra cima ou pra abaixo mudar o bloco de lugar
+
+refatorar/identação/organizar ctrl + shift + f
+
+duplicar linha: seleciona, pressiona ctrl + alt + seta para baixo
+
+ctrl + 2 + r
+
+debug
+
+clica antes do número da linha, ficará um ponto, o programa vai executar e parar
+nesse linha marcada, e você irá dando o comando para ele executar cada linha
+a partir daí para procurar a causa do erro.
+e executa, debu as java aplication
+
+ctrl + t para abrir uma classe

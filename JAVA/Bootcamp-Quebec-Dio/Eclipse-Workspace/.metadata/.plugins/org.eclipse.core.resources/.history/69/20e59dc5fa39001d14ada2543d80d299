@@ -1,0 +1,35 @@
+package br.dio.com.calculadora;
+
+import java.util.Scanner;
+
+public class calculadora {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		int a, b;
+		
+		System.out.println("Digite o primeiro valor: ");	
+		a = scan.nextInt();
+		System.out.println("Digite o segundo valor: ");
+		b = scan.nextInt();
+	}
+
+	public static int soma(int a, b) {
+		return a + b;
+	}
+	
+	public static int subtracao(int a, b) {
+		return a - b;
+	}
+	
+	public static int divisao(int a, b) {
+		return a / b;
+	}
+	
+	public static int multiplicacao(int a, b) {
+		return a * b;
+	}
+	
+	
+}

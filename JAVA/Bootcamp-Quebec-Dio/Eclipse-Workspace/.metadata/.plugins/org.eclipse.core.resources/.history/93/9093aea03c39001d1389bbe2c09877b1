@@ -1,0 +1,5 @@
+package br.dio.com.model;
+
+public class Gato {
+
+}
