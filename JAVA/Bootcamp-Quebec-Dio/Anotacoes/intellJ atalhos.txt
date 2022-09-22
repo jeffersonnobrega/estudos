@@ -1,0 +1,13 @@
+alt + insert sobre a pasta para criar packed, class e etc
+
+sout + enter para chamar o system.out
+
+pra rodar o programa ctrl + shift + f10 (depois disso se for rodar o mesmo programa, basta ir de shift + f10
+
+criar o construtor, alt + insert
+
+para comentar um bloco inteiro, seleciona ele e clica em ctrl + shift + /
+
+ctrl + alt + o para apagar os imports
+
+ctrl + y para deletar linha
