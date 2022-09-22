@@ -11,3 +11,13 @@ para comentar um bloco inteiro, seleciona ele e clica em ctrl + shift + /
 ctrl + alt + o para apagar os imports
 
 ctrl + y para deletar linha
+
+refatora shitf + f6
+
+shift + f12 para mostrar só o editor de texto
+
+para organizar o código ctrl + alt + l
+
+duplicar uma linha: ctrl + d
+
+ctrl + shift mais seta muda a linha de lugar
