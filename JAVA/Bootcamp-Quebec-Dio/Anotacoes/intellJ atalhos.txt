@@ -21,3 +21,16 @@ para organizar o código ctrl + alt + l
 duplicar uma linha: ctrl + d
 
 ctrl + shift mais seta muda a linha de lugar
+
+varios atalhos: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+
+ctrl + n para pesquisar classes
+
+ctrl + b para entrar dentro de uma classe
+
+DEBUG:
+
+clica em frente ao número da linha e será adicionado o breakpoint
+
+botão direto > debug
+
