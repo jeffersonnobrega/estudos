@@ -1,0 +1,1 @@
+RoundType rd para arrendodar valores, exemplo 1,2 arrendonda para 1 ou 2.
