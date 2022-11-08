@@ -1,8 +1,23 @@
+import java.util.concurrent.ThreadLocalRandom; // para números aleatórios
+
 public class whileExemplo {
     public static void main(String[] args) {
-        int valor = 0;
+        double mesada = 50.0;
 
-        while ( valor <= 50; valor ++);
+        while(mesada > 0) {
+            double valorDoce = valorAleatorio();
+            if(valorDoce > mesada)
+            valorDoce = mesada;
+            
+
+            System.out.println("Doce do valor: " + valorDoce + "Adicionado no carrinho");
+            valorDoce = mesada - valorDoce;
+        }
+     
+    }
+
+    private static double valorAleatorio() {
+        return ThreadLocalRandom.current().nextDouble(2, 8);            
     }
    
 }
