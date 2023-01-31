@@ -21,7 +21,7 @@ public class exercicio8 {
             System.out.println("O primeiro produto custa R$" + preco1 + " é o menor preço, pode comprá-lo.");
         } else if (preco2 < preco1 && preco2 < preco3){
             System.out.println("O segundo produto custa R$ " + preco2 + " é o menor preço, pode comprá-lo.");
-        } else if (preco3 < preco1 && preco3 < preco1){
+        } else if (preco3 < preco1 && preco3 < preco2){
             System.out.println("O terceiro produto custa R$ " + preco3 + " é menor preço, pode comprá-lo.");
         } else {
             System.out.println("Não há diferença de preços entre os produtos, leve qualquer um ou peça desconto.");

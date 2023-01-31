@@ -27,7 +27,7 @@ public class exercicio15 {
 
         //verificar se é um triângulo: a soma de quaisquer dois lados devem ser maior que o terceiro
 
-        if ((lado1 + lado2) > lado3 || (lado1 + lado3) > lado2 || (lado3 + lado2) > lado1) {
+        if (((lado1 + lado2) > lado3 || (lado1 + lado3) > lado2 || (lado3 + lado2) > lado1) ) {
             
             if ((lado1 == lado2 && lado1 != lado3 && lado2 != lado3)|| (lado1 == lado3 && lado1 != lado2 && lado2 != lado3) 
             || (lado2 == lado3 && lado2 != lado1 && lado3 != lado1)) {

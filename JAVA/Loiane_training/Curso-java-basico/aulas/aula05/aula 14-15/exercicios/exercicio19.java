@@ -1,7 +1,9 @@
-/*19 - Faça um programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
+/*Faça um programa que leia 2 numeros e em seguida pergunte ao usuário qual 
+operação ele deseja realizar. O resultado da operação deve ser
+ acompanhado de uma frase que diga se o número é 
 
-Observando que o termos no prlulral a colocação do "e", da vírgula entre outros. Exemplo:
-326 = 3 centenas, 2 dezenas e 6 unidades */
+par ou impar
+positivo ou negativo */
 
 import java.util.Scanner;
 
@@ -10,51 +12,51 @@ public class exercicio19 {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Informe um número inteiro menor que 1000: ");
-        int numero = scan.nextInt();
-        String msgCentena = " ";
+        System.out.println("Informe o primeiro número: ");
+        int num1 = scan.nextInt();
 
-        if (numero < 1000) {
+        System.out.println("Informe o segundo número: ");
+        int num2 = scan.nextInt();
+
+        int result = 0;
+
+        System.out.println("Qual operação deseja realizar? (+, -, x ou /): ");
+        String op = scan.next();
+
+        String msgParImpar = " ";
+        String msgPosiNegativo = " ";
+        boolean valida = true;
+
+        switch(op) {
+            case "+": result =  result = num1 + num2; break;
+            case "-": result =  result = num1 - num2; break;
+            case "x": result =  result = num1 * num2; break;
+            case "X": result =  result = num1 * num2; break;
+            case "*": result =  result = num1 * num2; break;
+            case "/": result =  result = num1 / num2; break;
+            default: 
+                    System.out.println("Operação inválida"); 
+                    valida = false;
+                     break;
+        }        
+        
+        if (valida) {
             
-            // centenas divido por 100
-            // dezena pego o numero total divido por 10, pego o resultado, divido por 10 dessa segunda divisão pego o resto e multiplico por 10, tenho a quantidade de dezenas
-            // o resto será a uniade, multiplica por 100
-
-            /*/ ************************CALCULO CENTENA ****************/
-            int centena = numero / 100;
-
-            if (centena < 2 ) {
-                msgCentena = "Centena";
+            if (result%2 == 0 ) {
+                msgParImpar = "O número PAR";
             } else {
-                msgCentena = "Centenas";
+                msgParImpar = "O número é IMPÁR";
             }
 
-            /*********************************************************** */
-            /*                      CALCULO DEZENA                        */
-
-            Double dezenaCalculo = (numero / 10) % 10;
-            Double dezena = dezenaCalculo * 10;
-        
-
-
-
-
-            System.out.println( "Centena: " + centena + msgCentena);
-            System.out.println( "Dezena: " + dezenaCalculo);
-
-
-
-
-
-
-
-
-
-
-
-        } else {
-            System.out.println("O número deve ser menor que 1000");
+            if (result >= 0) {
+                msgPosiNegativo = "O Número é POSITIVO";
+            } else {
+                msgPosiNegativo = "O número é NEGATIVO";
+            }
         }
 
+        System.out.println("O resultado é " + result + " e " + msgParImpar + ", " + msgPosiNegativo);
+
+       
     }
 }
