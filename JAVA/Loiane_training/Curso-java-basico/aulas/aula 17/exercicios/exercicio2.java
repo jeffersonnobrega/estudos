@@ -4,7 +4,6 @@ de erro e voltando a pedir as informações. */
 
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthScrollBarUI;
 
 public class exercicio2 {
     public static void main(String[] args) {
