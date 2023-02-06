@@ -7,6 +7,15 @@ public class exercicio9 {
         for(int i=1;i<50;i+=2){
             System.out.println(i);
         }
+
+        // LOGICA DA PROFESSORA ABAIXO
+        //PREFIRO A MINHA
+
+        for (int i=1; i<50; i++){
+            if (i % 2 != 0) {
+                System.out.println(i);
+            }
+        }
     }
     
 }

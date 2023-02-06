@@ -7,13 +7,20 @@ public class exercicio6 {
     public static void main(String[] args) {
 
         
-        for (int i=1; i <= 20; i++ ) {
-        System.out.println(i);
-        
+        for (int i=1; i <= 20; i++) {
+        System.out.println(i);        
        }
-       System.out.println("*******************************");   
+
+       System.out.println("*******************************");  
+
         for (int i=1 , j=2; i <=20 && j<=20 ; i+=2, j+=2 ) {
             System.out.println(i + " | " + j);
         }
+
+        //SOLUÇÃO ABAIXO DA PROFESSORAP PARA IMPRIMIR UM DO LADO DO OUTRO
+
+        for (int i=1; i <= 20; i++) {
+            System.out.print(i + " ");        
+           }
     }
 }

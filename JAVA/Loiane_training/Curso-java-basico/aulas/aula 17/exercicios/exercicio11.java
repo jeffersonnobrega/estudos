@@ -1,7 +1,8 @@
 import java.util.Scanner;
-/*10.Faça um programa que receba dois números inteiros e gere os 
-números inteiros que estão no intervalo compreendido por eles */
-public class exercicio10 {
+
+public class exercicio11 {
+  
+    /*11.Altere o programa anterior para mostrar no final a soma dos números. */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -11,13 +12,17 @@ public class exercicio10 {
         System.out.println("Informe o segundo número: ");
         int num2 = scan.nextInt();
 
-         for ( ;num1 < num2; num1++ ) {
-            System.out.println(num1);
+        int soma = 0;
+        
+
+         for (int i=num1; i<=num2; i++) {
+            soma += i;
          }
 
-         for ( ;num2 < num1; num2++ ) {
-            System.out.println(num2);
-         }
+         System.out.println("A Soma dos números é " + soma);
+
+        
+
 
     }
 }

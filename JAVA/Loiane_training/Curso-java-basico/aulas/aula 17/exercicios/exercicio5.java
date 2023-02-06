@@ -9,29 +9,79 @@ public class exercicio5 {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Informe a população do país A: ");
-        double populacaoA = scan.nextDouble();
+        double popA;
+        double popB;
+        double taxaA;
+        double taxaB;
+        boolean valido = false;
 
-        double taxaCrescimentoA = 0;
+        do {
+            System.out.println("entre com a população do país A: ");
+            popA = scan.nextDouble();
 
-        System.out.println("Informe a população do país B: ");
-        double populacaoB = scan.nextDouble();
-        
-        double taxaCrescimentoB = 0;     
+                if (popA > 0) {
+                    valido = true;
+                } else {
+                    System.out.println("População A precisa ser mai9r que 0"); 
+                }
 
-        double ano = 1;
+        } while (!valido);
 
-        while (populacaoA <= populacaoB) {
+        valido = false;
+
+        do {
+            System.out.println("entre com a população do país B: ");
+            popB = scan.nextDouble();
+
+                if (popB > 0) {
+                    valido = true;
+                } else {
+                    System.out.println("População B precisa ser mai9r que 0");
+                }
+ 
+        } while (!valido);
+
+        valido = false;
+
+        do {
+            System.out.println("Entre com a taxa de crescimento da população A: ");
+            taxaA = scan.nextDouble();
+
+                if (taxaA > 0) {
+                    valido = true;
+                } else {
+                    System.out.println("A taxa de crescimento A precisa ser maior que 0"); 
+                }
+
+        } while (!valido);
+
+        valido = false;
+
+        do {
+            System.out.println("Entre com a taxa de crescimento da população B: ");
+            taxaB = scan.nextDouble();
+
+                if (taxaB > 0) {
+                    valido = true;
+                } else {
+                    System.out.println("A taxa de crescimento B precisa ser maior que 0"); 
+                }
+
+        } while (!valido);
+
+        int cont = 0;
+
+        while (popA < popB) {
+
+            popA += (popA/100) * taxaA;
+            popB += (popB/100)  * taxaB;
+            cont++;
+        }
             
-            taxaCrescimentoA = (populacaoA / 100) * 3;
-            taxaCrescimentoB = (populacaoB / 100) * 1.5;
-            populacaoA = populacaoA + taxaCrescimentoA;
-            populacaoB = populacaoB + taxaCrescimentoB;
-            
-            ano++;
+        System.out.println("População A " + popA);
+        System.out.println("População B " + popB);
+        System.out.println("Qtd anos " + cont);
 
-         }
-
-        System.out.println("Serão necessários " + ano + " anos para que o país A iguale ou ultrapesse o país B em números de habitantes");
     }
-}
+
+ }

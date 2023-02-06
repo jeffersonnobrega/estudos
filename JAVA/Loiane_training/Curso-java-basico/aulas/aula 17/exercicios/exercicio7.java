@@ -6,7 +6,7 @@ public class exercicio7 {
         
         Scanner scan = new Scanner(System.in);
 
-        int num = 0;
+        /*int num = 0;
         int maior = 0;        
         
         for(int i=0; i<5; i++) {
@@ -18,7 +18,24 @@ public class exercicio7 {
             num = scan.nextInt();                     
         }
 
-        System.out.println("O número maior é " + maior);
+        System.out.println("O número maior é " + maior);*/
+
+        //ACIMA É MINHA LÓGICA ABAIXO É A LÓGICA DA PROFESSORA
+
+        int num;
+        int maior = Integer.MIN_VALUE; //esse é o menor número possível
+
+        for(int i=0; i<5; i++){
+            System.out.println("Entre com o número: ");
+            num = scan.nextInt();
+
+            if (num > maior) {
+                maior = num;
+            }  
+
+        System.out.println("O número maior é " + maior); 
+
+        }
     }
     
     }

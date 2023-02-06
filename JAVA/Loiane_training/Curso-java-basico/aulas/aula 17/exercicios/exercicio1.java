@@ -13,7 +13,7 @@ public class exercicio1 {
         int numero = scan.nextInt();
 
 
-        while (0 > numero  || 10 < numero) {
+        while (0 >= numero  || 10 <= numero) {
             
             System.out.println("Valor inválido. Entre com o número entre 0 e 10");
             numero = scan.nextInt();

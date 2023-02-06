@@ -12,7 +12,9 @@ public class exercicio3 {
         
         Scanner scan = new Scanner(System.in);
        
-        String nome = "";
+        // boa pratica do java declarar as variaveis fora dos blocos de repetição
+        String nome;
+        double salario;
 
         do {
             System.out.println("Entre com seu nome");
@@ -29,7 +31,7 @@ public class exercicio3 {
         } while (idade < 0 || idade > 150);
 
         System.out.println("Informe o salário: ");
-        double salario = scan.nextDouble();
+            salario = scan.nextDouble();
 
         while (salario < 0) {
             System.out.println("Salário inválido: ");
