@@ -4,18 +4,28 @@ public class exercicio15 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int n= 0;
-        int num = 0;
+        System.out.println("Entre com o n-ébimo termo da série de Fibonnaci");
+        int n = scan.nextInt();
 
-        System.out.println("Digite um número maior que 0");
-        num = scan.nextInt();
+        int primeiro = 1;
+        int segundo = 1;
+        int proximo;
 
-        if (n == 1 || n ==2) {
-            System.out.println("Inválido");
-        } else {
-            System.out.println(n);
+        System.out.println(primeiro);
+        System.out.println(segundo);
+    // o i vai começar do três pq acima tem o termo um e o termo 2
 
+        for (int i=3;i<=n; i++){
+            proximo = primeiro + segundo;
+            primeiro = segundo;
+            segundo = proximo;
+
+            System.out.println(proximo);
         }
+
+
+
+
     // NÃO CONSEGUI. MAS O PROBLEMA FOI MINHA MATEMÁTICA E NÃO A LINGUAGEM
     }
 }

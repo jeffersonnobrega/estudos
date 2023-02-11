@@ -19,5 +19,11 @@ public class exercicio10 {
             System.out.println(num2);
          }
 
+         //logica da professora abaixo
+
+        /*for (int i=num1; i<=num2; i++){
+            System.out.println(i);
+        }*/
+
     }
 }

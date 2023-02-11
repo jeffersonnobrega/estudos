@@ -22,6 +22,8 @@ public class exercicio13 {
 
         for (; power != 0; power--) {
             result = result * base;
+            //podia ser
+            // result *= base;
         }
         System.out.println("Result =  " + result);
     }

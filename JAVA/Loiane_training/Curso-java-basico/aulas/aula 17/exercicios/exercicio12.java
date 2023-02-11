@@ -38,5 +38,9 @@ o 5 X 10 = 50*/
             System.out.println("Favor informar um número entre 1 e 10");
         }
 
+        //lógica da professora bem mais simples
+        /* for (int i=1; i<=10;i++){
+        System.out.println(num + " x " + i + " = " + (num*i));
+         */
     }
 }
