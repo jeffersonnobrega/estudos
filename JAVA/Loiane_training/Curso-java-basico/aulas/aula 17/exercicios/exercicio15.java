@@ -4,7 +4,7 @@ public class exercicio15 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Entre com o n-ésimo termo da série de Fibonnaci");
+        System.out.println("Entre com o n-ébimo termo da série de Fibonnaci");
         int n = scan.nextInt();
 
         int primeiro = 1;
@@ -27,7 +27,6 @@ public class exercicio15 {
 
 
     // NÃO CONSEGUI. MAS O PROBLEMA FOI MINHA MATEMÁTICA E NÃO A LINGUAGEM
-        // exerc[cio corrigido
     }
 }
 

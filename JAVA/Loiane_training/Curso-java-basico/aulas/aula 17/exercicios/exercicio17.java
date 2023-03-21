@@ -1,5 +1,3 @@
-package exercicios;
-
 import java.util.Scanner;
 
 public class exercicio17 {
@@ -16,7 +14,7 @@ public class exercicio17 {
         while (i > 1) {
             i--;
             System.out.println("O fatorial de " + num1 + "!=" + num1+"*" + i);
-            num = (num * (i));
+            num *= i;
             }
         System.out.println("O fatorial de " + num1 + "! é " + num);
 

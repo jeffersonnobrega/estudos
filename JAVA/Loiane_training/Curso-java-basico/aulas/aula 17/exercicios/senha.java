@@ -1,42 +1,56 @@
+import java.util.Random;
+
+
 public class senha {
-
-    private static String gerarSenha(){
-        //int qtdeMaximaCaracteres = 8;
-        int qtdeMaximaCaracteres = Integer.parseInt(JOptionPane.showInputDialog("Digite o tamanho da sua senha: "));
-        String[] caracteres = { "0", "1", "b", "2", "4", "5", "6", "7", "8",
-                "9", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k",
-                "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w",
-                "x", "y", "z","+","-","/","*","_","!","@","$","%","&"};
-
-        StringBuilder senha = new StringBuilder();
-
-        for (int i = 0; i < qtdeMaximaCaracteres; i++) {
-            int posicao = (int) (Math.random() * caracteres.length);
-            senha.append(caracteres[posicao]);
-        }
-        return senha.toString();
-
-    }
-    private static String gerarSenha(int qtdeMaximaCaracteres){
-
-        String[] caracteres = { "0", "1", "b", "2", "4", "5", "6", "7", "8",
-                "9", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k",
-                "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w",
-                "x", "y","z","+","-","/","*","_","!","@","$","%","&"};
-
-        StringBuilder senha = new StringBuilder();
-
-        for (int i = 0; i < qtdeMaximaCaracteres; i++) {
-            int posicao = (int) (Math.random() * caracteres.length);
-            senha.append(caracteres[posicao]);
-        }
-        return senha.toString();
-    }
-    public String gerarSenha(String ContemPalavra, int Repetir){
-        // implementar o codigo para gerar a senha e repetir a Palavra especial
-        return "Sua senha";
-    }
-
     public static void main(String[] args) {
-        System.out.println("Sua senha: " + gerarSenha());
+        
+        //instância um objeto da classe Random usando o construtor básico
+        Random gerador = new Random();
+
+        //o padrão da senha deve ser da seguinte forma:
+        // uma letra maíscula, seguida de 4 letras minúscula + quatro numeros + um caracter especial
+
+        // gerando a letra maíscula
+
+        String letraCapsLockOn = "ABCDEFGHIJKLMNOPQRSTUVWYZ";
+
+        // chama o random recebendo os valores da variável string
+        int randomLetra1 = gerador.nextInt(letraCapsLockOn.length());        
+
+        // o charAT busca no índice (randomletra1) a letra "sorteada"
+        char indiceMaiuscula = letraCapsLockOn.charAt(randomLetra1);
+
+        System.out.print(indiceMaiuscula);
+
+        // gerando as 4 letras minúsculas
+
+        String letrasCapsLockOff;
+        int randomMinuscula;
+        char indiceMinuscula;
+
+        for (int i = 0; i < 4; i++) {
+            letrasCapsLockOff = "abcdefghijklmnopqrstuvwyz";
+            randomMinuscula = gerador.nextInt(letrasCapsLockOff.length());
+            indiceMinuscula = letrasCapsLockOff.charAt(randomMinuscula);
+
+            System.out.print(indiceMinuscula);          
+            
+        }
+
+        //gerando 4 números aleatórios entre 0 e 9
+        for (int i = 0; i < 4; i++) {
+            System.out.print(gerador.nextInt(9));
+        }
+        
+        //gerando um caracter especial aleatório
+
+        String caracter = "!@#$%&*?<>/-";
+
+        int randomCaracter = gerador.nextInt(caracter.length());
+        char indiceCaracter = caracter.charAt(randomCaracter);
+
+        System.out.print(indiceCaracter);        
+
+
+    }
 }

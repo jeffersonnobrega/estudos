@@ -1,46 +1,50 @@
-
-
 import java.util.Scanner;
 
 public class exercicio19 {
-
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Informe a quantidade de números no conjunto: ");
-        int i = scan.nextInt();
-        int temp = i;
+        System.out.println("Informe a quantidade de números do conjunto: ");
+        int n = scan.nextInt();
         int num = 0;
         int maior = Integer.MIN_VALUE; //esse é o menor número possível
         int menor = Integer.MAX_VALUE;
         int soma = 0;
+        
+        System.out.println("Informe um número: ");
+        int cont = scan.nextInt();
 
+        if (cont >= 0 && cont <= 1000 ) {
 
-        do {
-            i--;
-        if (num < 0 || num > 1000) {
-            i++;
-            num = 0;
-            System.out.println("Inválido, o número precisa estar entre 0 e 1000");
-        } else {
-                System.out.println("Informe um número");
+            for ( int i = 1 ; i < n; i++) {
+                
+                System.out.println("Informe um número: ");
                 num = scan.nextInt();
 
-                    soma += num;
+                soma += num;
 
-                    if (num < menor) {
-                        menor = num;
-                    }
-                    if (num > maior) {
-                        maior = num;
-                    }
+                if ( cont < menor) {
+                    menor = cont;
+                }
+                if (num < menor) {
+                    menor = num;
+                }
+                if ( cont > maior) {
+                    maior = cont;
+                }
+                if (num > maior) {
+                    maior = num;
                 }
 
-        }while (i > 0 && i < temp);
+            }
+            
+        } else {
+            System.out.println("Inválido");
+        }
 
-        System.out.println("O número maior é " + maior);
-        System.out.println("O número menor é " + menor);
-        System.out.println("A soma é " + soma);
+        System.out.println("soma " + (soma + cont));
+        System.out.println("maior " + maior);
+        System.out.println("menor " + menor);
 
     }
 }
