@@ -3,12 +3,21 @@
  */
 package classes;
 
+import java.util.Scanner;
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+      Scanner scan = new Scanner(System.in);
+      
+       pessoa objetoPessoa = new pessoa();
+       
+        System.out.println("Digite o peso: ");
+        objetoPessoa.peso = scan.nextFloat();
+        
+        System.out.println("Digite a altura: ");
+        objetoPessoa.altura = scan.nextFloat();
+        
+        System.out.println("IMC = " + objetoPessoa.calcularIMC());
     }
 }
