@@ -13,11 +13,15 @@ public class App {
        pessoa objetoPessoa = new pessoa();
        
         System.out.println("Digite o peso: ");
-        objetoPessoa.peso = scan.nextFloat();
+        objetoPessoa.setPeso(scan.nextFloat()); // o que for digitado vai alterar o objeto e não a entidade
+        // o objeto gerencia a suas informações
         
         System.out.println("Digite a altura: ");
-        objetoPessoa.altura = scan.nextFloat();
+        objetoPessoa.setAltura(scan.nextFloat());
+        
+        // os metodos devem ser nomeados no infinitivo como "calcular". Com exeção do método construtor
         
         System.out.println("IMC = " + objetoPessoa.calcularIMC());
     }
 }
+/*Já aqui na main fica tudo referente a interação do app com o usuário*/
