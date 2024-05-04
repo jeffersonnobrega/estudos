@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|c:\\git\\estudos\\c#\\aulas\\aulas_iniciais\\didatico.rendimensionador\\didatico.rendimensionador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|solutionrelative:didatico.rendimensionador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|c:\\git\\estudos\\c#\\aulas\\aulas_iniciais\\didatico.rendimensionador\\didatico.rendimensionador\\didatico.rendimensionador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|solutionrelative:didatico.rendimensionador\\didatico.rendimensionador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Didatico.Rendimensionador.csproj",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
+              "RelativeDocumentMoniker": "Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
+              "RelativeToolTip": "Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T01:03:20.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Program.cs",
+              "RelativeDocumentMoniker": "Didatico.Rendimensionador\\Program.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Program.cs",
+              "RelativeToolTip": "Didatico.Rendimensionador\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:40:48.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

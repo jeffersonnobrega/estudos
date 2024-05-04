@@ -1,0 +1,15 @@
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\Didatico.Rendimensionador.exe
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\Didatico.Rendimensionador.deps.json
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\Didatico.Rendimensionador.runtimeconfig.json
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\Didatico.Rendimensionador.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\Didatico.Rendimensionador.pdb
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.AssemblyInfoInputs.cache
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.AssemblyInfo.cs
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.csproj.CoreCompileInputs.cache
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.sourcelink.json
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\refint\Didatico.Rendimensionador.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.pdb
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.genruntimeconfig.cache
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\ref\Didatico.Rendimensionador.dll
