@@ -13,3 +13,8 @@ C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendim
 C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.pdb
 C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.genruntimeconfig.cache
 C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\ref\Didatico.Rendimensionador.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.Rendimensionador.csproj.AssemblyReference.cache
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\GIT\estudos\C#\aulas\aulas_iniciais\Didatico.Rendimensionador\Didatico.Rendimensionador\obj\Debug\net8.0\Didatico.6A9BF79C.Up2Date
