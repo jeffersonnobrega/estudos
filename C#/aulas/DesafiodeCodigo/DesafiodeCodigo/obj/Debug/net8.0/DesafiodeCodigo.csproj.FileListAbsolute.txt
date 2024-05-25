@@ -1,0 +1,15 @@
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.AssemblyInfoInputs.cache
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.AssemblyInfo.cs
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.csproj.CoreCompileInputs.cache
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.sourcelink.json
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\bin\Debug\net8.0\DesafiodeCodigo.exe
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\bin\Debug\net8.0\DesafiodeCodigo.deps.json
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\bin\Debug\net8.0\DesafiodeCodigo.runtimeconfig.json
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\bin\Debug\net8.0\DesafiodeCodigo.dll
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\bin\Debug\net8.0\DesafiodeCodigo.pdb
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.dll
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\refint\DesafiodeCodigo.dll
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.pdb
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\DesafiodeCodigo.genruntimeconfig.cache
+C:\GIT\estudos\C#\aulas\DesafiodeCodigo\DesafiodeCodigo\obj\Debug\net8.0\ref\DesafiodeCodigo.dll

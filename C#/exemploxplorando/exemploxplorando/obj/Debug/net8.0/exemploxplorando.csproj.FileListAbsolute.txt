@@ -1,0 +1,14 @@
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\bin\Debug\net8.0\exemploxplorando.exe
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\bin\Debug\net8.0\exemploxplorando.deps.json
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\bin\Debug\net8.0\exemploxplorando.runtimeconfig.json
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\bin\Debug\net8.0\exemploxplorando.dll
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\bin\Debug\net8.0\exemploxplorando.pdb
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.AssemblyInfoInputs.cache
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.AssemblyInfo.cs
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.csproj.CoreCompileInputs.cache
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.dll
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\refint\exemploxplorando.dll
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.pdb
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\exemploxplorando.genruntimeconfig.cache
+C:\Users\u95074\source\repos\exemploxplorando\exemploxplorando\obj\Debug\net8.0\ref\exemploxplorando.dll

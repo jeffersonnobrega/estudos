@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\estudos\\C#\\exemploxplorando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|solutionrelative:exemploxplorando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|c:\\git\\estudos\\c#\\exemploxplorando\\exemploxplorando\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|solutionrelative:exemploxplorando\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|c:\\git\\estudos\\c#\\exemploxplorando\\exemploxplorando\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|solutionrelative:exemploxplorando\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|c:\\git\\estudos\\c#\\exemploxplorando\\exemploxplorando\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DDA6E9-9FE4-467B-9F73-956EB5D091FC}|exemploxplorando\\exemploxplorando.csproj|solutionrelative:exemploxplorando\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "exemploxplorando\\Models\\Curso.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Models\\Curso.cs",
+              "RelativeToolTip": "exemploxplorando\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:38:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "exemploxplorando\\Models\\Clientes.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Models\\Clientes.cs",
+              "RelativeToolTip": "exemploxplorando\\Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:36:41.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "exemploxplorando\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Models\\Pessoa.cs",
+              "RelativeToolTip": "exemploxplorando\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:00:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Program.cs",
+              "RelativeDocumentMoniker": "exemploxplorando\\Program.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\exemploxplorando\\exemploxplorando\\Program.cs",
+              "RelativeToolTip": "exemploxplorando\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:56:15.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

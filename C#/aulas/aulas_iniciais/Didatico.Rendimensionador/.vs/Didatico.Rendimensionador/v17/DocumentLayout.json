@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|c:\\git\\estudos\\c#\\aulas\\aulas_iniciais\\didatico.rendimensionador\\didatico.rendimensionador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|solutionrelative:didatico.rendimensionador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|c:\\git\\estudos\\c#\\aulas\\aulas_iniciais\\didatico.rendimensionador\\didatico.rendimensionador\\didatico.rendimensionador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{03D380DC-7FD9-4769-AD05-51D32EDBD779}|Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj|solutionrelative:didatico.rendimensionador\\didatico.rendimensionador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,10 @@
               "RelativeDocumentMoniker": "Didatico.Rendimensionador\\Program.cs",
               "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Program.cs",
               "RelativeToolTip": "Didatico.Rendimensionador\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAgAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:40:48.484Z",
+              "WhenOpened": "2024-05-06T01:03:45.81Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Didatico.Rendimensionador.csproj",
-              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
-              "RelativeDocumentMoniker": "Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
-              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\aulas_iniciais\\Didatico.Rendimensionador\\Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
-              "RelativeToolTip": "Didatico.Rendimensionador\\Didatico.Rendimensionador.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T01:03:20.734Z"
             }
           ]
         }
