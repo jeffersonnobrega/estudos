@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|c:\\git\\estudos\\c#\\aulas\\moduloapi\\moduloapi\\context\\agendacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\context\\agendacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\moduloapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\moduloapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\moduloapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\moduloapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgendaContextFactory.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContextFactory.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Context\\AgendaContextFactory.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContextFactory.cs",
+              "RelativeToolTip": "ModuloApi\\Context\\AgendaContextFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:12:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ModuloApi\\appsettings.Development.json",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\appsettings.Development.json",
+              "RelativeToolTip": "ModuloApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T23:12:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Context\\AgendaContext.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "ModuloApi\\Context\\AgendaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:49:56.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuloApi.http",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\ModuloApi.http",
+              "RelativeDocumentMoniker": "ModuloApi\\ModuloApi.http",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\ModuloApi.http",
+              "RelativeToolTip": "ModuloApi\\ModuloApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-21T01:18:11.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Entities\\Contato.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Entities\\Contato.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Entities\\Contato.cs",
+              "RelativeToolTip": "ModuloApi\\Entities\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T01:15:14.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ModuloApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:19:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ModuloApi\\appsettings.json",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\appsettings.json",
+              "RelativeToolTip": "ModuloApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T01:14:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModuloApi.csproj",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\ModuloApi.csproj",
+              "RelativeDocumentMoniker": "ModuloApi\\ModuloApi.csproj",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\ModuloApi.csproj*",
+              "RelativeToolTip": "ModuloApi\\ModuloApi.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T01:14:04.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Program.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Program.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Program.cs",
+              "RelativeToolTip": "ModuloApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:45:31.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Controllers\\Class.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Controllers\\Class.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Controllers\\Class.cs",
+              "RelativeToolTip": "ModuloApi\\Controllers\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:17:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\WeatherForecast.cs",
+              "RelativeToolTip": "ModuloApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:38:34.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
