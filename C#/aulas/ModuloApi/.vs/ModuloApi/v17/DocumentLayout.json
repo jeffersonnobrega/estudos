@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|c:\\git\\estudos\\c#\\aulas\\moduloapi\\moduloapi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|c:\\git\\estudos\\c#\\aulas\\moduloapi\\moduloapi\\context\\agendacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\context\\agendacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\context\\agendacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|solutionrelative:moduloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E989C2A7-98C4-43B4-8FDE-289B6BB5222B}|ModuloApi\\ModuloApi.csproj|C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\moduloapi\\moduloapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -54,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AgendaContextFactory.cs",
-              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContextFactory.cs",
-              "RelativeDocumentMoniker": "ModuloApi\\Context\\AgendaContextFactory.cs",
-              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContextFactory.cs",
-              "RelativeToolTip": "ModuloApi\\Context\\AgendaContextFactory.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:12:50.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ModuloApi\\appsettings.Development.json",
@@ -83,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AgendaContext.cs",
               "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContext.cs",
               "RelativeDocumentMoniker": "ModuloApi\\Context\\AgendaContext.cs",
@@ -108,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Contato.cs",
               "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Entities\\Contato.cs",
               "RelativeDocumentMoniker": "ModuloApi\\Entities\\Contato.cs",
@@ -116,12 +103,11 @@
               "RelativeToolTip": "ModuloApi\\Entities\\Contato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T01:15:14.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T01:15:14.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "ModuloApi\\Controllers\\UsuarioController.cs",
@@ -129,12 +115,11 @@
               "RelativeToolTip": "ModuloApi\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAADwvxgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T01:19:20.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T01:19:20.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\appsettings.json",
               "RelativeDocumentMoniker": "ModuloApi\\appsettings.json",
@@ -158,15 +143,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Program.cs",
               "RelativeDocumentMoniker": "ModuloApi\\Program.cs",
               "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Program.cs",
               "RelativeToolTip": "ModuloApi\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvx8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T00:45:31.307Z"
+              "WhenOpened": "2024-07-21T00:45:31.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgendaContextFactory.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContextFactory.cs",
+              "RelativeDocumentMoniker": "ModuloApi\\Context\\AgendaContextFactory.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\aulas\\ModuloApi\\ModuloApi\\Context\\AgendaContextFactory.cs",
+              "RelativeToolTip": "ModuloApi\\Context\\AgendaContextFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:12:50.217Z"
             },
             {
               "$type": "Document",

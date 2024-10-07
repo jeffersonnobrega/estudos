@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\estudos\\C#\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|c:\\git\\estudos\\c#\\webapi\\webapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|C:\\GIT\\estudos\\C#\\WebApi\\webapi\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|c:\\git\\estudos\\c#\\webapi\\webapi\\enums\\turnosenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\enums\\turnosenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|c:\\git\\estudos\\c#\\webapi\\webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|C:\\GIT\\estudos\\C#\\WebApi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BABAB16-837A-424B-AF52-BD65C31A27ED}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnosEnum.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\enums\\TurnosEnum.cs",
+              "RelativeDocumentMoniker": "WebApi\\enums\\TurnosEnum.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\enums\\TurnosEnum.cs",
+              "RelativeToolTip": "WebApi\\enums\\TurnosEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:33:31.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "WebApi\\enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "WebApi\\enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:30:00.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "WebApi\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:14:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:13:59.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\GIT\\estudos\\C#\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T01:10:36.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
