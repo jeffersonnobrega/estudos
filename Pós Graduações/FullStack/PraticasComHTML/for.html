@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8" />
+    <head>
+        <title>Estrutura FOR</title>
+        <script>
+
+            const bimestres = 4
+            let nota = 0
+            let soma = 0
+            let aprovacao = "Aprovado"
+
+            for(let i=0; i<bimestres; i++) {
+                nota = Number(prompt("Informe a nota do bimestre " + (i+1) + ": "))
+                soma = soma + nota
+            }
+
+            const media = soma / bimestres
+
+            
+            media < 7 ? aprovacao = "Reprovado" :  aprovacao = "Aprovado"
+
+            console.log("A Média do aluno é: " + media + " é está " + aprovacao)
+
+
+        </script>
+
+    </head>
+    <body>
+        
+    </body>
+</html>

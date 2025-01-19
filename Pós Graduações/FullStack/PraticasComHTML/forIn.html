@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8" />
+    <head>
+        <title>Estrutura FOR</title>
+        <script>
+            //variável do tipo objeto
+           const pessoa = {
+            nome: 'Jefferson', 
+            idade: '25', 
+            email: 'jeffersonnobrega@gmail.com'
+            }
+
+            //variável do tipo array
+
+            const carros = ['gol', 'ford ka', 'ferrari']
+
+            // for para trabalhar com isso
+            // essa atributo é uma variável que posso chamar de qualquer coisa
+            // for in para objetos
+            for(let atributo in pessoa){
+                // coloque em atributo a propriedade de pessoa, então em cada repetição atributo receberá um atributo de pessoa
+                console.log(pessoa[atributo])
+                //concatenado
+                console.log("Atriburo é "+ pessoa[atributo])
+
+            }
+
+            //for off para arrays
+            // como acessar arrays
+            console.log(carros[0])
+
+            //agora usando o for of
+
+            for(let elemento of carros){
+                console.log(elemento)
+            }
+
+        </script>
+
+    </head>
+    <body>
+        
+    </body>
+</html>

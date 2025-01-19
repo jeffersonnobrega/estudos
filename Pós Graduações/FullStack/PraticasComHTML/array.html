@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <head>
+        <title>Arrays</title>
+
+        <script>
+            const carros = [
+                'gol',
+                'Fusca',
+                'Mercedes'
+            
+            ]
+
+            //adicionar intens ao final do array
+
+             carros.push('Fiesta')
+
+             console.table(carros) // apenas irá exibir no console em formato de tabela
+
+             //adicionar no primeia posição
+
+             carros.unshift('Veraneio')
+
+             //retirar itens do array, duas formas sempre do começo ou sempre do final
+
+             //retirar do final
+
+             carros.pop()
+
+             // retirar do início
+
+             carros.shift()
+
+             carro = carros.pop() //nesse caso ele retira do array e adiciona a uma varável
+
+             //metodo splice() serve para excluir intens do array, adicionar ou editar especificando o index do intem
+
+             carros.splice(1, 1) // posição inicial e quantos quer exclui a partir do indice indicado
+
+             carros.splice(1, 0,'Uno') // vai no index 1, nao exclui nada (0) e adiciona o Uno
+
+             carros.splice(2,1,'Ferrari') // substituição, vai no index 2, exclui um e adiciona Ferrari
+
+             carros.sort() // ordenar por ordem alfabética
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>

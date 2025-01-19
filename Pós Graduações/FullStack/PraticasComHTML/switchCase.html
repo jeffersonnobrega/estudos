@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Switch Case</title>
+        <script>
+            /*
+            Requisitos:
+            Estagiário 100% de aumento
+            Analista 50%
+            Gerente 30%
+            Diretor 10%
+            */
+
+            const cargo = prompt("Insira seu cargo")
+            const salarioAtula = prompt("Insira seu salário")
+            let aumento = 0
+
+            switch(cargo){
+                case 'Estagiário': aumento = 2; break;
+                case 'Analista': aumento = 1.5; break;
+                case 'Gerente': aumento = 1.3; break;
+                case 'Diretor': aumento = 1.1; break;
+                    default: alert("Cargo inválido")
+            }
+
+            const novoSalario = salarioAtula * aumento
+
+            console.console.log("O novo salário do " + cargo + " é " + novoSalario);
+            
+
+        </script>
+    </head>
+    <body>
+ 
+
+</html>
